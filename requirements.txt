@@ -11,7 +11,7 @@ Friends functionality
 Viewing profile
 View feed of friends
 Editing user profile
-
+Flag user functionality
 
 What we need to do now:
 Determine our schemas for the database
